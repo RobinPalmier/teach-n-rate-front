@@ -1,5 +1,9 @@
 import React from 'react';
+import Header from '../Header';
 
-const Login = () =>  <h2>Professeur</h2> 
+const TeacherView = () =>  <>
+    <h2>Professeur</h2> 
+    <Header />
+</>
 
-export default Login;
+export default TeacherView;

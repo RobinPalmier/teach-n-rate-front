@@ -1,5 +1,9 @@
 import React from 'react';
+import Header from '../Header';
 
-const Login = () =>  <h2>Administration</h2> 
+const AdminView = () =>  <>
+    <h2>Administration</h2>
+    <Header />
+</>
 
-export default Login;
+export default AdminView;
