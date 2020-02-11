@@ -1,4 +1,4 @@
-# Teach-n-rate
+# Teach-n-rate (front)
 ### Prérequis :
 
 Avoir installer Docker sur son ordinateur.
